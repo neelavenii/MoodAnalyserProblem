@@ -1,0 +1,8 @@
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\bin\Debug\MoodAnalyserProblem.exe.config
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\bin\Debug\MoodAnalyserProblem.exe
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\bin\Debug\MoodAnalyserProblem.pdb
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\obj\Debug\MoodAnalyserProblem.csproj.AssemblyReference.cache
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\obj\Debug\MoodAnalyserProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\obj\Debug\MoodAnalyserProblem.csproj.CoreCompileInputs.cache
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\obj\Debug\MoodAnalyserProblem.exe
+C:\Users\Eswar\source\repos\MoodAnalyserProblem\MoodAnalyserProblem\obj\Debug\MoodAnalyserProblem.pdb
